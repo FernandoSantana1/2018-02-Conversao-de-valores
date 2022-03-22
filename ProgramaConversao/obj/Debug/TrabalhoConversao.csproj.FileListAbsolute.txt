@@ -1,0 +1,17 @@
+C:\Users\fernando\Downloads\Fernando Santana Mombach\ProgramaConversao\obj\Debug\TrabalhoConversao.csprojAssemblyReference.cache
+C:\Users\fernando\Downloads\Fernando Santana Mombach\ProgramaConversao\obj\Debug\TrabalhoConversao.FormConversao.resources
+C:\Users\fernando\Downloads\Fernando Santana Mombach\ProgramaConversao\obj\Debug\ProgramaConversao.Properties.Resources.resources
+C:\Users\fernando\Downloads\Fernando Santana Mombach\ProgramaConversao\obj\Debug\TrabalhoConversao.csproj.GenerateResource.cache
+C:\Users\fernando\Downloads\Fernando Santana Mombach\ProgramaConversao\obj\Debug\TrabalhoConversao.csproj.CoreCompileInputs.cache
+C:\Users\fernando\Downloads\Fernando Santana Mombach\ProgramaConversao\obj\Debug\ProgramaConversao.exe
+C:\Users\fernando\Downloads\Fernando Santana Mombach\ProgramaConversao\obj\Debug\ProgramaConversao.pdb
+C:\Users\fernando\Pictures\Fernando Santana Mombach\ProgramaConversao\obj\Debug\TrabalhoConversao.csprojAssemblyReference.cache
+C:\Users\fernando\Pictures\Fernando Santana Mombach\ProgramaConversao\obj\Debug\ProgramaConversao.Properties.Resources.resources
+C:\Users\fernando\Pictures\Fernando Santana Mombach\ProgramaConversao\obj\Debug\TrabalhoConversao.csproj.GenerateResource.cache
+C:\Users\fernando\Pictures\Fernando Santana Mombach\ProgramaConversao\obj\Debug\TrabalhoConversao.csproj.CoreCompileInputs.cache
+C:\Users\fernando\Pictures\Fernando Santana Mombach\ProgramaConversao\obj\Debug\ProgramaConversao.exe
+C:\Users\fernando\Pictures\Fernando Santana Mombach\ProgramaConversao\obj\Debug\ProgramaConversao.pdb
+C:\Users\fernando\Pictures\Fernando Santana Mombach\ProgramaConversao\bin\Debug\ProgramaConversao.exe.config
+C:\Users\fernando\Pictures\Fernando Santana Mombach\ProgramaConversao\bin\Debug\ProgramaConversao.exe
+C:\Users\fernando\Pictures\Fernando Santana Mombach\ProgramaConversao\bin\Debug\ProgramaConversao.pdb
+C:\Users\fernando\Pictures\Fernando Santana Mombach\ProgramaConversao\obj\Debug\TrabalhoConversao.Form1.resources
